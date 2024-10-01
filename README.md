@@ -4,9 +4,12 @@
 
  <a href="https://github.com/rafalobodev">
   <!--<img width="1500em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalobodev&layout=compact&langs_count=7&theme=dracula"/>-->
+ <div align="center">
   <a href="https://github.com/rafalobodev">
-   <img height="200px" width="400px" src="https://github-readme-stats-liart-nine-71.vercel.app/api?username=rafalobodev&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalobodev&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="200px" width="400px" src="https://github-readme-stats-liart-nine-71.vercel.app/api?username=rafalobodev&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br">
+    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalobodev&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
    
   ##
   
