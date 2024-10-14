@@ -10,6 +10,8 @@
     <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalobodev&layout=compact&langs_count=7&theme=dracula"/>
   </a>-->
    <img height="200vh" width="400px" src="https://github-readme-stats-liart-nine-71.vercel.app/api?username=rafalobodev&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br"><img width="270px" height="200vh" src="https://github-readme-stats-liart-nine-71.vercel.app/api/top-langs/?username=rafalobodev&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&locale=pt-br&layout=compact">
+
+   <br/>![](https://github-readme-streak-stats.herokuapp.com/?user=rafalobodev&theme=midnight-purple&hide_border=false)<br/>
   ##
   
   #### ⭐ Skills
